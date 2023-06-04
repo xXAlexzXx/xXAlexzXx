@@ -1,0 +1,3 @@
+- 👋 Hi, I’m xXAlexzXx
+- 👀 I’m interesed with malwares
+- 🌱 I’m currently learning GDI an other assembly
